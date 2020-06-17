@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\Programacao 2020\CURSO JDEV\PROJETOS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1266003827.index
+\curso-jsp\src
+D:\Programacao 2020\CURSO JDEV\PROJETOS\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1271753131.index
+\curso-jsp\src

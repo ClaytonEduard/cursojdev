@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+D:\Programacao 2020\CURSO JDEV\PROJETOS\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1271753131.index
+4074692080.index
+1607567648.index
+2380238768.index
+1875906760.index
+2650077551.index
+2887371026.index
+1271753131.index
